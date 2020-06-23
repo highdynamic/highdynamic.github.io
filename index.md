@@ -9,3 +9,5 @@ Rick Sanchez ist ein älterer exzentrischer Wissenschaftler und Alkoholiker, der
 * Fahrzeug: UFO
 
 > If I'm always looking back, I'm never looking ahead. We are who we are because of consequences. You can't live without consequences.
+
+<img src="https://i.pinimg.com/236x/7b/aa/25/7baa252dbdfeed669c152bedd2fa5feb--rick-and-morty-art-trippy-rick-and-morty-drawings.jpg" />
